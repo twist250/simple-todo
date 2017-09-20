@@ -24,5 +24,3 @@
 <li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
 </ol>
 
-<p> I wrote a blog post on how to build this app, you can check it out <a href="" target="_blank">Here</a>
-
